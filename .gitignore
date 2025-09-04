@@ -1,4 +1,4 @@
 *.exe
-books.csv
-members.csv
-transactions.csv
+*.books.csv
+*.members.csv
+*.transactions.csv
