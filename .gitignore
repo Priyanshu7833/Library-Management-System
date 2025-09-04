@@ -1,1 +1,4 @@
 *.exe
+books.csv
+members.csv
+transactions.csv
